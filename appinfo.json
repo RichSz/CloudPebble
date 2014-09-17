@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "richsz@gmail.com",
+    "longName": "RS Simple MICR",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/ATComputer.ttf",
+                "name": "AtComputer_22",
+                "type": "font"
+            },
+            {
+                "file": "fonts/ATComputer.ttf",
+                "name": "AtComputer_38",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "RS Simple MICR",
+    "uuid": "6e840d6f-d20c-49bc-b9ae-97f93b21ec16",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
